@@ -1,3 +1,4 @@
+# devspoon-startup-tizen-app-galaxywatch2
 ## 팀명 및 팀원
 * 팀명 : AinPeople
 * 팀원 : 임도현(S/W), 강동훈(H/W)
